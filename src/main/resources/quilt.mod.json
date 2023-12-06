@@ -15,11 +15,11 @@
 				"issues": "https://github.com/a1qs/custom_mod/issues",
 				"sources": "https://github.com/a1qs/custom_mod"
 			},
-			"icon": "assets/example_mod/icon.png"
+			"icon": "assets/custom_mod/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.example.example_mod.ExampleMod"
+			"init": "io.github.a1qs.CustomMod"
 		},
 		"depends": [
 			{
